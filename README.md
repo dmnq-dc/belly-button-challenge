@@ -27,3 +27,6 @@ Display Demographic Information
 
 ![image](https://user-images.githubusercontent.com/117326039/223883669-913e2b07-e92c-4208-af46-56485a88dec8.png)
 
+--------------------------------------------
+
+Link to page: [Week 14/Belly Button Challenge](https://dmnq-dc.github.io/belly-button-challenge/)
